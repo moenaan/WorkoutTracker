@@ -24,7 +24,7 @@ This app allows the user to create and view daily workouts.
 To install necessary dependencies, run the following command:
 
 ```
-undefined
+npm install
 ```
 
 ## Usage
@@ -33,18 +33,18 @@ A consumer will reach their fitness goals by using this applicaton.
 
 ## License
 
-This project is licensed under the undefined license.
+This project is licensed under the MIT license.
   
 ## Contributing
 
-undefined
+Mohammed Samod
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-undefined
+N/A
 ```
 
 ## Questions
